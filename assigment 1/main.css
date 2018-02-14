@@ -1,0 +1,26 @@
+title{color:black;}
+p{
+font-family: 'Raleway', sans-serif;
+color: black;
+padding: 25px;
+
+}
+h1{color: #0D17A9;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 30%;
+	background-color: #F99614;
+	margin-right: 30%;
+}
+h2,h3,h3,h4{font-family: 'Roboto', sans-serif;
+	padding: 20px
+
+}
+a{color: black;
+	padding: 20px;
+}
+nav li{
+	list-style-type: none;
+	border-bottom: solid 1px black;
+	padding-bottom: 0.5em;
+	margin-top: 0.5em;
+}
